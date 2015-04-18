@@ -1,0 +1,14 @@
+{
+  label = "Couch Table",
+  tooltip = "Simple couch table for your living room.",
+  emitRedstone = false,
+  buttonMode = false,
+  shapes = {
+    { 0, 0, 0, 1, 6, 1, texture = "planks_oak" },
+    { 0, 0, 15, 1, 6, 16, texture = "planks_oak" },
+    { 15, 0, 0, 16, 6, 1, texture = "planks_oak" },
+    { 15, 0, 15, 16, 6, 16, texture = "planks_oak" },
+
+    { 0, 6, 0, 16, 8, 16, texture = "planks_oak" }
+  }
+}
