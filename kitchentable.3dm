@@ -1,0 +1,14 @@
+{
+  label = "Kitchen Table",
+  tooltip = "Simple kitchen table with white quartz top.",
+  emitRedstone = false,
+  buttonMode = false,
+  shapes = {
+    { 0, 0, 0, 1, 14, 1, texture = "planks_oak" },
+    { 0, 0, 15, 1, 14, 16, texture = "planks_oak" },
+    { 15, 0, 0, 16, 14, 1, texture = "planks_oak" },
+    { 15, 0, 15, 16, 14, 16, texture = "planks_oak" },
+
+    { 0, 14, 0, 16, 16, 16, texture = "quartz_block_side" }
+  }
+}
