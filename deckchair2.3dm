@@ -1,0 +1,22 @@
+{
+  label = "Deck Chair 2/2",
+  tooltip = "Deck chair, part 2.",
+  emitRedstone = false,
+  buttonMode = false,
+  shapes = {
+    { 0, 0, 0, 1, 6, 1, texture = "planks_oak" },
+    { 0, 0, 15, 1, 6, 16, texture = "planks_oak" },
+    { 15, 0, 0, 16, 6, 1, texture = "planks_oak" },
+    { 15, 0, 15, 16, 6, 16, texture = "planks_oak" },
+    { 0, 6, 0, 16, 8, 16, texture = "wool_colored_white" },
+	
+    { 8, 8, 0, 16, 9, 16, texture = "wool_colored_white" },
+    { 9, 9, 0, 16, 10, 16, texture = "wool_colored_white" },
+    { 10, 10, 0, 16, 11, 16, texture = "wool_colored_white" },
+    { 11, 11, 0, 16, 12, 16, texture = "wool_colored_white" },
+    { 12, 12, 0, 16, 13, 16, texture = "wool_colored_white" },
+    { 13, 13, 0, 16, 14, 16, texture = "wool_colored_white" },
+    { 14, 14, 0, 16, 15, 16, texture = "wool_colored_white" },
+    { 15, 15, 0, 16, 16, 16, texture = "wool_colored_white" }
+  }
+}
